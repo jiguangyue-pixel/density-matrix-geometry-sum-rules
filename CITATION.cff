@@ -6,6 +6,8 @@ authors:
   - family-names: Ji
     given-names: Guangyue
 version: 1.0.0
+doi: 10.5281/zenodo.22696116
+date-released: 2026-09-10
 repository-code: "https://github.com/jiguangyue-pixel/density-matrix-geometry-sum-rules"
 license: MIT
 abstract: >-

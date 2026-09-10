@@ -89,5 +89,8 @@ The numerical files in `data/` are separately licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); see `data/LICENSE`.
 
 The software and data creator is Guangyue Ji. Citation metadata are in
-`CITATION.cff`. Archival deposition on Zenodo is pending; no DOI has yet been
-assigned.
+`CITATION.cff`. Version 1.0.0 is archived on Zenodo at
+[doi:10.5281/zenodo.22696116](https://doi.org/10.5281/zenodo.22696116).
+The archive preserves commit `393f423d9353bf85c42062213355add528f8ce79`.
+DOI metadata were added to the main branch after archival publication; the
+calculation code and numerical data are unchanged.
