@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the calculations or reproduction workflow."
+type: software
+title: "Density Matrix Geometry and Sum Rules: Haldane-model calculations"
+authors:
+  - family-names: Ji
+    given-names: Guangyue
+version: 1.0.0
+repository-code: "https://github.com/jiguangyue-pixel/density-matrix-geometry-sum-rules"
+license: MIT
+abstract: >-
+  Calculation and plotting code for Figure 1 of Density Matrix Geometry and
+  Sum Rules, including Haldane-model quadrature, thermal and parameter scans,
+  finite-difference derivatives, and reference data. Software is MIT licensed;
+  the accompanying numerical data are separately licensed CC BY 4.0.
+keywords:
+  - quantum geometry
+  - sum rules
+  - Haldane model
+  - optical conductivity
